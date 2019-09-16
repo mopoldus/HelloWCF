@@ -1,0 +1,6 @@
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\bin\Debug\HelloWCF.dll.config
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\bin\Debug\HelloWCF.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\bin\Debug\HelloWCF.pdb
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\obj\Debug\HelloWCF.csproj.CoreCompileInputs.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\obj\Debug\HelloWCF.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCF\obj\Debug\HelloWCF.pdb

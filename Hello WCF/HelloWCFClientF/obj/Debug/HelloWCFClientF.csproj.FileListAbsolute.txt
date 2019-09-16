@@ -1,0 +1,15 @@
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\bin\Debug\HelloWCFClientF.exe.config
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\bin\Debug\HelloWCFClientF.exe
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\bin\Debug\HelloWCFClientF.pdb
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.csprojAssemblyReference.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\MainWindow.g.cs
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\App.g.cs
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF_MarkupCompile.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF_MarkupCompile.lref
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\MainWindow.baml
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.g.resources
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.Properties.Resources.resources
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.csproj.GenerateResource.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.csproj.CoreCompileInputs.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.exe
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\HelloWCFClientF\obj\Debug\HelloWCFClientF.pdb
