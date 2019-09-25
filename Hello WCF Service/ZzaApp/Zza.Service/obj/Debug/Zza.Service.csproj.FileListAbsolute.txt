@@ -1,0 +1,2 @@
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Service\obj\Debug\Zza.Service.csprojAssemblyReference.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Service\obj\Debug\Zza.Service.csproj.CoreCompileInputs.cache

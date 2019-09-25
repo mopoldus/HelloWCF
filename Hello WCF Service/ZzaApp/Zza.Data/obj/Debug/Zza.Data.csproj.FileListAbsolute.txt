@@ -1,0 +1,14 @@
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\Zza.Entities.pdb
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Data\obj\Debug\Zza.Data.pdb

@@ -1,0 +1,6 @@
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\bin\Debug\Zza.Entities.pdb
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csprojAssemblyReference.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.csproj.CoreCompileInputs.cache
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.dll
+C:\Dev\TestGITHUB\HelloWCF\Hello WCF Service\ZzaApp\Zza.Entities\obj\Debug\Zza.Entities.pdb
